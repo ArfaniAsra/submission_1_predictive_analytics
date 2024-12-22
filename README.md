@@ -188,4 +188,24 @@ Kedua algoritma menunjukkan kualitas klaster yang baik, tetapi Hierarchical Clus
    - Klaster 1 mendominasi wilayah dengan infrastruktur energi maju, seperti Eropa dan Amerika Utara.
 
 3. **Karakteristik Klaster**:
-   - Faktor utama yang membedakan klaster meliputi: tingkat pendapatan (*Income
+   - Faktor utama yang membedakan klaster meliputi: tingkat pendapatan (*Income_Level*), sumber energi (*Energy_Source*), dan ukuran rumah tangga (*Household_Size*).
+
+### Jawaban atas Pertanyaan Bisnis
+1. **Bagaimana pola penggunaan energi rumah tangga dapat dikelompokkan?**
+   - Klasterisasi menunjukkan pola yang jelas berdasarkan jenis energi terbarukan yang digunakan, dengan perbedaan signifikan dalam efisiensi biaya dan konsumsi energi.
+
+2. **Apakah terdapat perbedaan signifikan dalam pola konsumsi energi di berbagai wilayah geografis?**
+   - Ya, wilayah dengan akses lebih baik ke energi terbarukan cenderung memiliki efisiensi biaya lebih tinggi.
+
+3. **Faktor apa saja yang membedakan rumah tangga dalam segmen?**
+   - Faktor utama meliputi sumber energi, tingkat pendapatan, dan efisiensi biaya per kWh.
+
+### Rekomendasi
+1. **Subsidi dan Insentif**:
+   - Tingkatkan subsidi untuk rumah tangga di Klaster 0 untuk meningkatkan efisiensi biaya.
+
+2. **Peningkatan Infrastruktur**:
+   - Prioritaskan pengembangan infrastruktur energi di wilayah yang mendominasi Klaster 0.
+
+3. **Strategi Pemasaran**:
+   - Tawarkan solusi hemat energi kepada rumah tangga di Klaster 0 dan produk energi premium kepada rumah tangga di Klaster 1.
